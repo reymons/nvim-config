@@ -11,7 +11,7 @@ return require("packer").startup(function(use)
         requires = {{"nvim-treesitter/nvim-treesitter"}}
     }
     use {
-        "~/base16-tomorrow",
+        "~/nvim-themes",
         requires = {{"rktjmp/lush.nvim"}}
     }
     use {
