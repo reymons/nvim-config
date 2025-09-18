@@ -8,6 +8,7 @@ local formatter_map = {
   tsx = "prettier --write",
   json = "prettier --write",
   css = "prettier --write",
+  scss = "prettier --write",
   html = "prettier --write",
 }
 
